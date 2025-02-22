@@ -1,0 +1,17 @@
+{
+  "name": "project_c5k6q_d7w7h_p3k3b-1",
+  "version": "1.0.0",
+  "description": "This platform helps users manage various subscriptions (e.g., streaming, e-commerce memberships, product deliveries) in one place. It allows users to view, add, update, and delete subscriptions, track renewals and payments, and receive notifications—all through a user-friendly interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "oracledb": "^6.6.0"
+  }
+}
